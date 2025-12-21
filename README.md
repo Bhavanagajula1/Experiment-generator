@@ -42,6 +42,15 @@ Overall, the Science Experiment Chatbot promotes hands-on learning, reduces depe
 1.git tag -a v1.0 -m "Version 1.0 - stable project Submission"
 2.git tag -a v2.0 -m "Version 2.0 - Project submitted with sucessfull git commits"
 3.git tag
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/473e4626132be8f983169d74c8bca0cea88753bc/Tags)
+# push 
+git remote origin https://github.com/Bhavanagajula1/Experiment-generator.git
+# git push -u origin master
+# git clone
+ git clone https://github.com/Bhavanagajula1/Experiment-generator.git
+# git pull origin master
+
+# !ScreenShots
 
 
 
