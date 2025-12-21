@@ -32,6 +32,13 @@ Overall, the Science Experiment Chatbot promotes hands-on learning, reduces depe
 5.git merge bugfix-conflict
 6.git add script.js
 7.git commit -m "Resolved merge conflict"
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/accd2569c60fa99d081864b8a5980a11bcfd6d39/merge%20Conflict)
+## Rebase Operation
+1.git checkout experiment-api
+2.git rebase master
+# conflict in Rebase
+
+
 
 
 
