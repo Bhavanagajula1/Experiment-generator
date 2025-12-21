@@ -1,0 +1,5 @@
+# INTRODUCTION
+The Science Experiment Chatbot is a web-based application designed to help students and learners easily discover science experiments using simple, commonly available materials. Instead of searching through books or multiple websites, users can interact with the chatbot by entering the ingredients they have, and the system provides relevant experiment descriptions in a simple and understandable way.
+This project aims to make science learning more interactive, accessible, and engaging, especially for school-level students. The chatbot processes user input, identifies suitable experiments, and displays clear experiment descriptions, encouraging curiosity and practical learning.
+The application is built using HTML, CSS, and JavaScript for the frontend, with chatbot logic implemented in JavaScript to handle user input and responses. The project follows a modular structure, making it easy to enhance with additional experiments, improved logic, or backend/API integration in the future.
+Overall, the Science Experiment Chatbot promotes hands-on learning, reduces dependency on manual searching, and supports innovative digital education.
