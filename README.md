@@ -19,8 +19,19 @@ Overall, the Science Experiment Chatbot promotes hands-on learning, reduces depe
 5.git commit -m "Initial commit: project setup"
 6.git log --oneline
 ## Branches
-git branch feature-ui
-git branch bugfix-json
-git branch experiment-api
-git branch
+1)git branch feature-ui
+2)git branch bugfix-json
+3)git branch experiment-api
+4)git branch
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/79c8385b21dd1066ff8af219f6dc1dc20f79df87/Branches)
+## Merge conflict
+1.git checkout -b bugfix-conflict
+2git commit -m "Bugfix update"
+3.git checkout master
+4.git commit -m "Main branch update"
+5.git merge bugfix-conflict
+6.git add script.js
+7.git commit -m "Resolved merge conflict"
+
+
 
