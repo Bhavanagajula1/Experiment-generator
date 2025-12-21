@@ -1,4 +1,4 @@
-// Main branch update for chatbot logic
+// Main branch update + JSON parsing fix
 // UI feature enhancement added
 // API configuration - Using Supabase Edge Function
 const API_URL =
