@@ -1,7 +1,4 @@
-
-// Main branch update for chatbot logic
 // UI feature enhancement added
-// Fixed JSON parsing issue
 // API configuration - Using Supabase Edge Function
 const API_URL =
   "https://asjewfkzgrhstvmvmdqn.supabase.co/functions/v1/gemini-call";
