@@ -37,7 +37,11 @@ Overall, the Science Experiment Chatbot promotes hands-on learning, reduces depe
 1.git checkout experiment-api
 2.git rebase master
 # conflict in Rebase
-
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/7e6a189331a8d6ed215df640ae273b425bb7bf5f/Rebase%20Conflict)
+# Tags
+1.git tag -a v1.0 -m "Version 1.0 - stable project Submission"
+2.git tag -a v2.0 -m "Version 2.0 - Project submitted with sucessfull git commits"
+3.git tag
 
 
 
