@@ -60,6 +60,12 @@ git remote origin https://github.com/Bhavanagajula1/Experiment-generator.git
 ![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/38d45ae7af79871c345f5dac4eef8685f905696a/7th%20commit%20page)
 ![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/53209c2ee3014ff0ea96cbdb3fdd4f0bc01d5c8b/8th%20commit%20page)
 
+# Challenges
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/aed347cf72f964aff3ad968e05ff4efb032ede90/Screenshot%202025-12-21%20180219.png)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/aed347cf72f964aff3ad968e05ff4efb032ede90/Screenshot%202025-12-21%20144241.png)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/aed347cf72f964aff3ad968e05ff4efb032ede90/Screenshot%202025-12-21%20175355.png)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/aed347cf72f964aff3ad968e05ff4efb032ede90/Screenshot%202025-12-21%20175403.png)
+
 
 
 
