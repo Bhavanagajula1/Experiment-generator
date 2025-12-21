@@ -1,3 +1,4 @@
+// Staging demo: preparing file for commit
 // Main branch update + JSON parsing fix
 // UI feature enhancement added
 // API configuration - Using Supabase Edge Function
