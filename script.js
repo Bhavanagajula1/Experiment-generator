@@ -1,3 +1,4 @@
+// UI feature enhancement added
 // API configuration - Using Supabase Edge Function
 const API_URL =
   "https://asjewfkzgrhstvmvmdqn.supabase.co/functions/v1/gemini-call";
