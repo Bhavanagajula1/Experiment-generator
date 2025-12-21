@@ -51,6 +51,14 @@ git remote origin https://github.com/Bhavanagajula1/Experiment-generator.git
 # git pull origin master
 
 # !ScreenShots
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/1bf30498ba4caa0f944daf8709d95ff29540936d/1st%20commit%20page)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/14596543b552550b61cd1a94290aea990fbb3ffd/2nd%20commit%20page)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/e4d09259c275bea6cc275155d6b87e29dda71d25/3rd%20commit%20page)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/936dbea10b00e53b152e387e6e480a5e3e5aa8a2/4th%20Commit%20Page)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/4d92af6f8581ece1b5bf700aeab4122a03fdb22b/5th%20commit%20page)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/f33192fb3ec1cf92099d4fa44fa3d0c451ccb9cb/6th%20commit%20page)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/38d45ae7af79871c345f5dac4eef8685f905696a/7th%20commit%20page)
+![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/53209c2ee3014ff0ea96cbdb3fdd4f0bc01d5c8b/8th%20commit%20page)
 
 
 
