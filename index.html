@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Science Experiment Chatbot</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="app-container">
+      <!-- Sidebar -->
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <div class="logo">
+            <i class="fas fa-flask"></i>
+            <span>SciBot</span>
+          </div>
+          <button class="new-chat-btn" onclick="location.reload()">
+            <i class="fas fa-plus"></i> New Experiment
+          </button>
+        </div>
+
+        <div class="sidebar-content">
+          <div class="suggestions-section">
+            <h3><i class="fas fa-lightbulb"></i> Materials</h3>
+            <p class="subtitle">Click to add to your inventory</p>
+            <div class="material-tags">
+              <button class="material-tag" onclick="addMaterial('Baking soda')">
+                Baking soda
+              </button>
+              <button class="material-tag" onclick="addMaterial('Vinegar')">
+                Vinegar
+              </button>
+              <button
+                class="material-tag"
+                onclick="addMaterial('Food coloring')"
+              >
+                Food coloring
+              </button>
+              <button class="material-tag" onclick="addMaterial('Dish soap')">
+                Dish soap
+              </button>
+              <button class="material-tag" onclick="addMaterial('Salt')">
+                Salt
+              </button>
+              <button class="material-tag" onclick="addMaterial('Sugar')">
+                Sugar
+              </button>
+              <button class="material-tag" onclick="addMaterial('Paper')">
+                Paper
+              </button>
+              <button class="material-tag" onclick="addMaterial('Balloons')">
+                Balloons
+              </button>
+              <button class="material-tag" onclick="addMaterial('Water')">
+                Water
+              </button>
+              <button class="material-tag" onclick="addMaterial('Oil')">
+                Oil
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div class="sidebar-footer">
+          <div class="user-profile">
+            <div class="avatar"><i class="fas fa-user"></i></div>
+            <span>Science Explorer</span>
+          </div>
+          <div class="credits">
+            <p>Created by Bhawana</p>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main Chat Area -->
+      <main class="main-chat">
+        <div id="chat-messages" class="chat-messages">
+          <!-- Messages will appear here dynamically -->
+        </div>
+
+        <div class="input-container-wrapper">
+          <div class="input-container">
+            <input
+              type="text"
+              id="materials-input"
+              placeholder="Enter materials (e.g., vinegar, baking soda)..."
+              autocomplete="off"
+            />
+            <button id="send-btn" onclick="getExperiments()">
+              <i class="fas fa-paper-plane"></i>
+            </button>
+          </div>
+          <p class="disclaimer">
+            SciBot can make mistakes. Ensure adult supervision for all
+            experiments.
+          </p>
+        </div>
+      </main>
+    </div>
+
+    <div id="loading" class="loading hidden">
+      <div class="spinner"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
