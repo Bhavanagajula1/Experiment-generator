@@ -12,42 +12,42 @@ Overall, the Science Experiment Chatbot promotes hands-on learning, reduces depe
 - ├── Dockerfile        # Docker configuration (optional)
 - ├── README.md         # Project documentation
 ## Commits Used
-1.git init
-2.git status
-3.git add script.js
-4.git add .
-5.git commit -m "Initial commit: project setup"
-6.git log --oneline
+- 1.git init
+- 2.git status
+- 3.git add script.js
+- 4.git add .
+- 5.git commit -m "Initial commit: project setup"
+- 6.git log --oneline
 ## Branches
-1)git branch feature-ui
-2)git branch bugfix-json
-3)git branch experiment-api
-4)git branch
+- 1)git branch feature-ui
+- 2)git branch bugfix-json
+- 3)git branch experiment-api
+- 4)git branch
 ![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/79c8385b21dd1066ff8af219f6dc1dc20f79df87/Branches)
 ## Merge conflict
-1.git checkout -b bugfix-conflict
-2git commit -m "Bugfix update"
-3.git checkout master
-4.git commit -m "Main branch update"
-5.git merge bugfix-conflict
-6.git add script.js
-7.git commit -m "Resolved merge conflict"
+- 1.git checkout -b bugfix-conflict
+- 2.git commit -m "Bugfix update"
+- 3.git checkout master
+- 4.git commit -m "Main branch update"
+- 5.git merge bugfix-conflict
+- 6.git add script.js
+- 7.git commit -m "Resolved merge conflict"
 ![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/accd2569c60fa99d081864b8a5980a11bcfd6d39/merge%20Conflict)
 ## Rebase Operation
-1.git checkout experiment-api
-2.git rebase master
+- 1.git checkout experiment-api
+- 2.git rebase master
 # conflict in Rebase
 ![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/7e6a189331a8d6ed215df640ae273b425bb7bf5f/Rebase%20Conflict)
 # Tags
-1.git tag -a v1.0 -m "Version 1.0 - stable project Submission"
-2.git tag -a v2.0 -m "Version 2.0 - Project submitted with sucessfull git commits"
-3.git tag
+- 1.git tag -a v1.0 -m "Version 1.0 - stable project Submission"
+- 2.git tag -a v2.0 -m "Version 2.0 - Project submitted with sucessfull git commits"
+- 3.git tag
 ![image url](https://github.com/Bhavanagajula1/Experiment-generator/blob/473e4626132be8f983169d74c8bca0cea88753bc/Tags)
 # push 
-git remote origin https://github.com/Bhavanagajula1/Experiment-generator.git
+- git remote origin https://github.com/Bhavanagajula1/Experiment-generator.git
 # git push -u origin master
 # git clone
- git clone https://github.com/Bhavanagajula1/Experiment-generator.git
+ - git clone https://github.com/Bhavanagajula1/Experiment-generator.git
 # git pull origin master
 
 # !ScreenShots
