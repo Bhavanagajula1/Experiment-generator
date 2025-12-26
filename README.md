@@ -5,12 +5,12 @@ The application is built using HTML, CSS, and JavaScript for the frontend, with 
 Overall, the Science Experiment Chatbot promotes hands-on learning, reduces dependency on manual searching, and supports innovative digital education.
 ![image alt](https://github.com/Bhavanagajula1/Experiment-generator/blob/f10db4d8399ea6a8cbf0517a04b590bf18ef3041/website%20homepage)
 ## science-experiment-chatbot/
-│
-├── index.html        # Main HTML file
-├── style.css         # Styling file
-├── script.js         # Chatbot logic and experiment generation
-├── Dockerfile        # Docker configuration (optional)
-├── README.md         # Project documentation
+- │
+- ├── index.html        # Main HTML file
+- ├── style.css         # Styling file
+- ├── script.js         # Chatbot logic and experiment generation
+- ├── Dockerfile        # Docker configuration (optional)
+- ├── README.md         # Project documentation
 ## Commits Used
 1.git init
 2.git status
